@@ -4,3 +4,5 @@ As a Data Scientist/ Data Analyst, your prediction and models are only as effect
 This project focuses on the data wrangling process. 
 The datasets are gathered, assessed for quality and tidiness, and cleaned before insights and visualizations are made. 
 Using python's pandas package, I cleaned the dataset so as to make it more comprehensive, tidy and of better quality.
+
+The entire wrangling process and analysis can be found in the 'wrangle-act.ipynb' file. Comprehensive reports are made on the wrangling and analysis in the 'wrangle-report.ipynb' and 'act-report.ipynb' files respectively.
